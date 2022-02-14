@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paszi95
+- 👋 Hi, I’m @TibiCodes
 - 👀 I'm currently working in the chemical industry after finishing Chemistry MSc. Looking to broaden my views since Python is a new passion of mine.
 - 🌱 I’m currently learning Python, planning on picking up Flask, Django, NumPy, pytest, TensorFlow etc. on the way!
 
